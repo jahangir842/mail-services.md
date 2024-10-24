@@ -1,5 +1,7 @@
 ### Resources:
 - https://dixmata.medium.com/install-zimbra-ubuntu-20-04-6d5c47df0498
+- https://www.habibza.in/install-zimbra-10-ubuntu-20-04-from-scratch/
+- https://medium.com/@nadjibammour80/install-zimbra-on-ubuntu-20-04-step-by-step-d3f1508b9302
 
 ### Download:
 - https://www.zimbra.com/product/download/zimbra-collaboration-network-edition/
